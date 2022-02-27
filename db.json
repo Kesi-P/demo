@@ -10,5 +10,31 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "reference": [
+    { 
+      "skills": [
+        {
+          "id": "1",
+          "Name": "Usability"
+        },
+        {
+          "id": "2",
+          "Name": "IGMP Snooping"
+        },
+        {
+          "id": "3",
+          "Name": "JDeveloper"
+        },
+        {
+          "id": "4",
+          "Name": "Internet Yellow Pages"
+        },
+        {
+          "id": "5",
+          "Name": "Foreign Languages"
+        }
+      ]
+    }
+  ],
 }
